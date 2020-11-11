@@ -1,7 +1,13 @@
 ## Hello Fellow Devs 👋.
-# My Name is Daniel  :octocat: .
+# My Name is Daniel  :octocat:
 > Being a CREATURE :sparkles: , I want to be CREATIVE :pencil2: .
-> I love coding and I do sports( football :soccer: , table tennis ) as well
+> I love coding and I do sports( football :soccer: , table tennis ) as well.
+
+## WHY I CODE !!!! ?? :alien:
+
+# I want to solve the problems of society and the world through CODE!!! :blush: :smirk: :wink:
+
+## Therefore help me learn . :sunglasses:
 
 
 <!--
