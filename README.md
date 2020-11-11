@@ -1,4 +1,8 @@
-### Hello Fellow Devs 👋
+## Hello Fellow Devs 👋.
+# My Name is Daniel  :octocat: .
+> Being a CREATURE :sparkles: , I want to be CREATIVE :pencil2: .
+> I love coding and I do sports( football :soccer: , table tennis ) as well
+
 
 <!--
 **Daniel-Sogbey/Daniel-Sogbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
