@@ -22,11 +22,13 @@
 
 >LEST I FORGET , I LOVE OOP !!!. :scream: :alien:
 
->let me share a joke with you. :smile: :smile:
+## let me tell you a fact . :smile: :smile:
 
->I drew a car on a large sheet of paper and cut it out and am driving it now. :smile: :smile:
+>I drew a car on a large sheet of paper , went out and collected some empty cans and made a car out of it , and am now driving the car hurrrrrryy. :smile: :smile:
 
-> The car i drew is the CLASS (OOP) the car am driving now is the instance of the class called an OBJECT(OOP). :smile: :smile: :smile:
+#### Can you believe this:
+
+### The car i drew is the CLASS (OOP) the car am driving now is the instance of the class called an OBJECT(OOP). :smile: :smile: :smile:
 
 
 
