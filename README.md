@@ -5,7 +5,9 @@
 
 # I Write about Flutter, Dart, JavaScript and Nodejs on Medium :smile:
 > Find me there. <br>
-- [<img src="https://github.com/Daniel-Sogbey/Daniel-Sogbey/blob/master/images/medium.png" width= "14"> LinkedIn](https://sogbeydaniel.medium.com/)
+- [<img src="https://github.com/Daniel-Sogbey/Daniel-Sogbey/blob/master/images/medium.png" width= "14"> Medium](https://sogbeydaniel.medium.com/)
+>Find me on LinkedIn as well: <br>
+- [<img src="https://github.com/Daniel-Sogbey/Daniel-Sogbey/blob/master/images/linkedin.jpg" width= "14"> LinkedIn](https://www.linkedin.com/in/daniel-sogbey-130759184/)
 
 <br>
 
