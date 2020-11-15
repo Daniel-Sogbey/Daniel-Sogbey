@@ -9,10 +9,6 @@
 >Find me on LinkedIn as well: <br>
 - [<img src="https://github.com/Daniel-Sogbey/Daniel-Sogbey/blob/master/images/linkedin.jpg" width= "14"> LinkedIn](https://www.linkedin.com/in/daniel-sogbey-130759184/)
 
-<br>
-
-<img src="https://github.com/Daniel-Sogbey/Daniel-Sogbey/blob/master/images/medium_profile_pic.png" width= "880">
-
 ## WHY I CODE !!!! ?? :alien:
 
 >I want to solve the problems of society and the world through CODE!!! :blush: :smirk: :wink:
