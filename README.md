@@ -1,4 +1,4 @@
-## Hello Fellow Devs 👋.
+## Hello Fellow Devs 👋
 # My Name is Daniel.  :octocat:
 > Being a CREATURE :sparkles: , I want to be CREATIVE :pencil2: .<br>
 > I love coding and I do sports( football :soccer: , table tennis ) as well.<br>
