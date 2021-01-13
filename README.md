@@ -16,7 +16,7 @@
 >Therefore help me learn . :sunglasses:
 
 
->LEST I FORGET , I LOVE OOP !!!. :scream: :alien:
+>LEST I FORGET , I LOVE OOP !!!. :alien:
 
 ## let me tell you a fact . :smile: :smile:
 
