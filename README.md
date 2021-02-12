@@ -1,7 +1,7 @@
 
-## Daniel.  :octocat:
+## Daniel  :octocat:
 
-# I Write about Flutter, Dart, JavaScript and Nodejs on Medium :smile:
+# I Write about Flutter, Dart,React.js JavaScript and Nodejs on Medium :smile:
 > Find me there. <br>
 - [<img src="https://github.com/Daniel-Sogbey/Daniel-Sogbey/blob/master/images/medium.png" width= "14"> Medium](https://sogbeydaniel.medium.com/)
 >Find me on LinkedIn as well: <br>
