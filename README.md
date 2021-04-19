@@ -1,6 +1,6 @@
 
 ## Daniel  :octocat:
-> Find me HERE. <br>
+> Find me HERE. 
 - [<img src="https://github.com/Daniel-Sogbey/Daniel-Sogbey/blob/master/images/medium.png" width= "14"> Medium](https://sogbeydaniel.medium.com/)
 > AND <br>
 - [<img src="https://github.com/Daniel-Sogbey/Daniel-Sogbey/blob/master/images/linkedin.jpg" width= "14"> LinkedIn](https://www.linkedin.com/in/daniel-sogbey-130759184/)
