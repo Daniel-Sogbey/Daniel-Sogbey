@@ -4,7 +4,7 @@
 - [<img src="https://github.com/Daniel-Sogbey/Daniel-Sogbey/blob/master/images/medium.png" width= "14"> Medium](https://sogbeydaniel.medium.com/)
 > AND <br>
 - [<img src="https://github.com/Daniel-Sogbey/Daniel-Sogbey/blob/master/images/linkedin.jpg" width= "14"> LinkedIn](https://www.linkedin.com/in/daniel-sogbey-130759184/)
-
+![Visitor Count](https://profile-counter.glitch.me/{Daniel-Sogbey}/count.svg)
 <!--
 **Daniel-Sogbey/Daniel-Sogbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
